@@ -1,4 +1,4 @@
-[Home]() &bull; [Work](docs/README.md) &bull; [About](about.md)
+[Home](README.md) &bull; [Work](docs/README.md) &bull; [About](about.md)
 
 # Rancang Visualisasi untuk Pendidikan Sains 4.0<br>
 Khusus untuk guru SMP/SMA/Sederajat
