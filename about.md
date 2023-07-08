@@ -1,4 +1,4 @@
-[Home](README.md) &bull; [Work](docs/README.md) &bull; [About](about.md)
+[Home](README.md) &bull; [Notes](notes.md) &bull; [Work](docs/README.md) &bull; [About](about.md)
 
 # about
 Halo, saya **Pengajar Empatnol**.
