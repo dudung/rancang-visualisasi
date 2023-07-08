@@ -1,6 +1,5 @@
-# rancang-visualisasi
-Rancang Visualisasi untuk Pendidikan Sains 4.0<br>
-(Khusus untuk guru SMP/SMA/Sederajat)
+# Rancang Visualisasi untuk Pendidikan Sains 4.0<br>
+Khusus untuk guru SMP/SMA/Sederajat
 
 + Memahami perbedaan animasi, simulasi, dan visualisasi.
 + Memanfaatkan teknik visualisasi untuk mendukung pengajaran ilmu sains.
@@ -29,3 +28,5 @@ Rancang Visualisasi untuk Pendidikan Sains 4.0<br>
 + Billiing ID: FMIPA.PM-10-02-2023
 
 **Narahubung**: fahdzi@itb.ac.id
+
+![](leaflet.png)
