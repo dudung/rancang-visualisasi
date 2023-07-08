@@ -5,4 +5,4 @@ Berikut adalah karya-karya yang dipelajari di workshop Rancang Visualisasi untuk
 
 + Gerak melingkar beraturan
 + Gerak parabola
-+ Simulati dengan [matter.js](https://github.com/liabru/matter-js)
++ Simulasi dengan [matter.js](https://github.com/liabru/matter-js)
