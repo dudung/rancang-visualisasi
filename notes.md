@@ -12,4 +12,4 @@ Materi workshop Rancang Visualisasi untuk Pendidikan Sains 4.0
 + [Simple animation with SVG](https://medium.com/@6unpnp/simple-animation-with-svg-5ba41838083a)
 + [Steps to create a Google account](https://medium.com/@6unpnp/steps-to-create-a-google-account-e8def05c6506)
 + [How to create a GitHub Account](https://medium.com/@6unpnp/how-to-create-a-github-account-46c4a36c2673)
-+ [Clone a GitHub repository and deploy its GitHub Pages site]()
++ [Fork a GitHub repository and deploy its GitHub Pages site](https://medium.com/@6unpnp/fork-a-github-repository-and-deploy-its-github-pages-site-d55dc53988d)
